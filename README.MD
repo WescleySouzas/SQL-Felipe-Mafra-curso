@@ -2,7 +2,6 @@
 
 ![Badge Status](https://img.shields.io/badge/Status-Em%20Concluido-gree)
 ![Badge MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
-![Badge License](https://img.shields.io/github/license/WescleySouzas/SQL-Felipe-Mafra-curso)
 
 Este repositório contém minhas anotações, scripts e resoluções de exercícios desenvolvidos durante o **Curso Completo de Banco de Dados e SQL** ministrado pelo instrutor **Felipe Mafra**.
 
