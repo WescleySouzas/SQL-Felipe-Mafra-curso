@@ -1,6 +1,6 @@
 # 🗃️ Curso de SQL - Felipe Mafra
 
-![Badge Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+![Badge Status](https://img.shields.io/badge/Status-Em%20Concluido-gree)
 ![Badge MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
 ![Badge License](https://img.shields.io/github/license/WescleySouzas/SQL-Felipe-Mafra-curso)
 
