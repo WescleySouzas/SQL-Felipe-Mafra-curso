@@ -27,5 +27,6 @@ Os arquivos estão organizados conforme a progressão das aulas:
 ```bash
 SQL-Felipe-Mafra-curso/
 ├── MySQL/  
-├── SQL Server/      
+├── Postgres/ 
+├── SQL Server/  
 └── README.md          
