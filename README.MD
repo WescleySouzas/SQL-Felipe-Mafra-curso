@@ -1,7 +1,11 @@
 # 🗃️ Curso de SQL - Felipe Mafra
 
 ![Badge Status](https://img.shields.io/badge/Status-Em%20Concluido-gree)
-![Badge MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
+![Badge MySQL](https://img.shields.io/badge/MySQL-blue)
+![Badge SQLServer](https://img.shields.io/badge/SQLServer-red)
+![Badge Postgres](https://img.shields.io/badge/Postgres-yellow)
+
+
 
 Este repositório contém minhas anotações, scripts e resoluções de exercícios desenvolvidos durante o **Curso Completo de Banco de Dados e SQL** ministrado pelo instrutor **Felipe Mafra**.
 
